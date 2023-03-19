@@ -4,3 +4,4 @@ hello
 word added the new line
 added.,
 hi hello
+s
